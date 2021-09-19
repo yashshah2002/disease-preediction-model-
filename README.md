@@ -6,5 +6,5 @@ Predict the time and type of the disease based on the symptoms enumerated.
 
 
 
--------------------------------------------------- CONTRIBUTERS OF THIS PROJECT ---------------------------------- ------------------------------------------
+-------------------------------------------------- CONTRIBUTERS OF THIS PROJECT ---------------------------------- -------------------
                                                  [[satyaraj solanki]](https://github.com/Satyaraj291)
