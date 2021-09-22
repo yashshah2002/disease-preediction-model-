@@ -8,5 +8,7 @@ Predict the time and type of the disease based on the symptoms enumerated.
 
 -------------------------------------------------- CONTRIBUTERS OF THIS PROJECT --------------------------------------
                                                  [[satyaraj solanki]](https://github.com/Satyaraj291)
-                                                 [[krushnayani]](https://github.com/krushnayani)
-                                                 [[Yash shah ]](https://github.com/yashshah2002)
+                                                
+                                                [[krushnayani]](https://github.com/krushnayani)
+                                                
+                                                [[Yash shah ]](https://github.com/yashshah2002)
